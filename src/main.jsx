@@ -7,5 +7,6 @@ root.render(
 		<li>Book</li>
 		<li>Pen</li>
 		<li>Bag</li>
+		<li>Cup</li>
 	</ul>
 )
