@@ -1,0 +1,15 @@
+body {
+    background-color: #242424;
+    color: white;
+    
+}
+#root {
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+}
+
+#react-img {
+    margin-bottom: 10%;
+    width: 100px;
+}
